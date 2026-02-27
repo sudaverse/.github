@@ -9,6 +9,8 @@
 [![](https://img.shields.io/github/contributors/sudaverse/sudaverse.svg)](https://github.com/sudaverse/sudaverse/graphs/contributors)
 [![](https://img.shields.io/github/stars/sudaverse/sudaverse.svg)](https://github.com/sudaverse/sudaverse/stargazers)
 
+<img src="https://raw.githubusercontent.com/sudaverse/sudaverse/main/assets/logo.jpg" width="180" alt="Sudaverse Logo"/>
+
 **An open-source AI ecosystem dedicated to developing, training, evaluating, and scaling models that understand and generate Sudanese dialect — built for culture, community, and the future.**
 
 [🚀 Quick Start](https://github.com/sudaverse#-quick-start) • [📚 Documentation](https://www.sudaverse.com) • [🤝 Contributing](https://github.com/sudaverse/sudaverse#-contributing)
